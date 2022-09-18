@@ -24,9 +24,9 @@ taxonomy:
 ### [あ](https://lostinbitcoin.jp/glossary-a/#a)
 |<!-- -->|<!-- -->|<!-- -->|
 | ---- | ---- | ---- |
-|[アダプター署名](https://lostinbitcoin.jp/glossary_a/#adaptor_signature)|[アトミック・マルチパス・ペイメント (AMP)](https://lostinbitcoin.jp/glossary_a/#amp)|[アドレス](https://lostinbitcoin.jp/glossary_a/#address)|
-|[イニシャル・ブロック・ダウンロード (IBD)](https://lostinbitcoin.jp/glossary_a/#ibd)|[ASIC](https://lostinbitcoin.jp/glossary_a/#asic)|[オーファン・ブロック](https://lostinbitcoin.jp/glossary_a/#orphan_block)|
-|[オフチェーン](https://lostinbitcoin.jp/glossary_a/#off_chain)|[オンチェーン](https://lostinbitcoin.jp/glossary_a/#on_chain)|
+|[アダプター署名](https://lostinbitcoin.jp/glossary-a/#adaptor_signature)|[アトミック・マルチパス・ペイメント (AMP)](https://lostinbitcoin.jp/glossary-a/#amp)|[アドレス](https://lostinbitcoin.jp/glossary-a/#address)|
+|[イニシャル・ブロック・ダウンロード (IBD)](https://lostinbitcoin.jp/glossary-a/#ibd)|[ASIC](https://lostinbitcoin.jp/glossary-a/#asic)|[オーファン・ブロック](https://lostinbitcoin.jp/glossary-a/#orphan_block)|
+|[オフチェーン](https://lostinbitcoin.jp/glossary-a/#off_chain)|[オンチェーン](https://lostinbitcoin.jp/glossary-a/#on_chain)|
 
 ### か
 |<!-- -->|<!-- -->|<!-- -->|
