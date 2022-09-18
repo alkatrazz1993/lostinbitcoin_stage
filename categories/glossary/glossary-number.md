@@ -17,11 +17,11 @@ taxonomy:
 --
 ### ビットコイン用語集
 
-### 索引 ら
+### 索引 #
 
 |  用語  |  英語表記  |  説明  |  報酬  |
 | ---- | ---- | ---- |---- |
-|<a id=“レイヤー“></a>レイヤー| Layer | Bitcoin’s blockchain offers final settlement for bitcoin at the cost of relatively low throughput. The Bitcoin network averages between 4-7 transactions per second. This is obviously insufficient for hosting all of the world’s financial transactions, as Bitcoin intends to do. While larger settlements can still be settled to the blockchain to achieve maximal security, smaller transactions in need of lower security can be executed “off-chain” by another service or protocol, called a layer. Layered solutions can trade lower security for higher throughput and cheaper fees. Bitcoin developers prefer that innovation and scaling takes place on layers on top of Bitcoin in order to separate the security risks that come with software innovation from affecting Bitcoin’s blockchain. These layers have analog examples in the legacy financial system: credit cards, Venmo, and PayPal are all layered on top of a core banking system of wire transfers and the ACH system. Before the gold standard was abandoned, physical cash was a layer on top of the base money of gold.|  1,000 sats  |
+|<a id=“51%攻撃“></a>51%攻撃| 51% Attack | If an attacker wishes to alter a block in the Bitcoin blockchain, they must recreate the Proof-of-Work, not only for the block they wish to change, but for all subsequent blocks as well. In addition, they must also produce new blocks faster than all honest miners combined in order to convince nodes that their altered chain is valid. This is due to the fact that nodes always consider the longest chain—the chain with the most blocks—to be the valid chain. To achieve all of this, the malicious miner must control 51% of the mining power of the Bitcoin network. In other words, they must have more computing power than all other miners combined. The difficulty of this attack makes Bitcoin secure against fraud and transaction reversals. Fear of a 51% attack is also why measuring hash rate is so important. Hash rate is a measure of the total mining capacity of the Bitcoin network, and the higher this number, the more expensive a 51% attack is. Hash rate is thus a measure of security against a 51% attack.|  1,000 sats  |
 | | |
 | | |
 
