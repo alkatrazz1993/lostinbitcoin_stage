@@ -21,7 +21,7 @@ taxonomy:
 
 |  用語  |  英語表記  |  説明  |  報酬  |
 | ---- | ---- | ---- |---- |
-|<a id=“ノード“></a>ノード|  Node |  A node is a discrete member of a network which interacts with other nodes to form the network. A Bitcoin node is any computer that runs a Bitcoin implementation and stores the entire blockchain. Nodes validate, broadcast, and request new blocks and the mempool to and from peers in the network. If nodes run compatible software, consensus is achieved.Node count is vital to protecting the network from malicious or haphazard source code changes, reorganizations, and other protocol changes. |  1,000 sats  |
+|<a id="ノード"></a>ノード|  Node |  A node is a discrete member of a network which interacts with other nodes to form the network. A Bitcoin node is any computer that runs a Bitcoin implementation and stores the entire blockchain. Nodes validate, broadcast, and request new blocks and the mempool to and from peers in the network. If nodes run compatible software, consensus is achieved.Node count is vital to protecting the network from malicious or haphazard source code changes, reorganizations, and other protocol changes. |  1,000 sats  |
 | | |
 | | |
 

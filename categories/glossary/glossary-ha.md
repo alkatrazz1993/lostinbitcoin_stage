@@ -21,7 +21,7 @@ taxonomy:
 
 |  用語  |  英語表記  |  説明  |  報酬  |
 | ---- | ---- | ---- |---- |
-|<a id=“半減期“></a>半減期|  Halving | The halving is an event which reduces the issuance rate of bitcoin by half every four years. Bitcoin’s issuance schedule is precisely defined by an algorithm in Bitcoin’s code. This algorithm allows a certain amount of new bitcoin to be minted in each block, as compensation for the miner of the block.This new bitcoin is called the block subsidy, and at Bitcoin’s inception, it was 50 BTC per block. However, the subsidy is cut in half in an event called the halving, which takes place every 210,000 blocks—roughly every four years. This process will continue until the subsidy reaches zero, by which time over 7 million blocks will have been mined across 34 halvings. |  1,000 sats  |
+|<a id="半減期"></a>半減期|  Halving | The halving is an event which reduces the issuance rate of bitcoin by half every four years. Bitcoin’s issuance schedule is precisely defined by an algorithm in Bitcoin’s code. This algorithm allows a certain amount of new bitcoin to be minted in each block, as compensation for the miner of the block.This new bitcoin is called the block subsidy, and at Bitcoin’s inception, it was 50 BTC per block. However, the subsidy is cut in half in an event called the halving, which takes place every 210,000 blocks—roughly every four years. This process will continue until the subsidy reaches zero, by which time over 7 million blocks will have been mined across 34 halvings. |  1,000 sats  |
 | | |
 | | |
 
