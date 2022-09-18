@@ -29,6 +29,7 @@ https://lostinbitcoin.jp/
 - `/categories/how-to/wallet/` - ビットコインを安全に管理するには
 - `/categories/lightning/` - ロストイン・ビットコイン / ライトニング
 - `/categories/use-case/` - ロストイン・ビットコイン / 事例
+- `/categories/glossary/` - 用語集
 
 ## フォーマット
 ### 記事
